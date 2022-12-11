@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "cookie-parser": "^1.4.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fcc-express-bground": "https://github.com/Em-Ant/fcc-express-bground-pkg.git"
   },
   "main": "server.js",
